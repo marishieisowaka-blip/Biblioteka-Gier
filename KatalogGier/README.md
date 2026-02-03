@@ -3,7 +3,6 @@
 Aplikacja desktopowa do zarządzania kolekcją gier wideo napisana w Pythonie z interfejsem graficznym Tkinter.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 📋 Opis projektu
 
@@ -26,18 +25,11 @@ Aplikacja desktopowa do zarządzania kolekcją gier wideo napisana w Pythonie z 
 - Python 3.8 lub nowszy
 - Tkinter (zazwyczaj instalowane z Pythonem)
 
-### Instalacja i uruchomienie
+### Uruchomienie
 
-1. Pobierz projekt:
-```bash
-git clone https://github.com/TWOJ_USERNAME/KatalogGierPython.git
-cd KatalogGierPython
-```
-
-2. Uruchom aplikację:
-```bash
-python main.py
-```
+1. **Pobierz projekt** — kliknij zielony przycisk `Code` → `Download ZIP`
+2. **Rozpakuj** archiwum
+3. **Uruchom** `main.py` (dwukrotne kliknięcie lub przez terminal: `python main.py`)
 
 ## 📖 Jak używać
 
@@ -95,11 +87,7 @@ Projekt edukacyjny - demonstracja OOP w Pythonie.
 ## 📊 Statystyki projektu
 
 - 5 plików źródłowych Python
-- ~1400 linii kodu
+- ~2450 linii kodu
 - 32 kategorie gatunków gier
 - 100 gier testowych
 - 4 filary OOP w pełni zaimplementowane
-
-## 📝 Licencja
-
-MIT License - projekt edukacyjny
